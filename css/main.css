@@ -30,7 +30,8 @@ p {
 }
 
 img{
- float:right;
+    margin-right:0;
+    margin-left: auto;
 }
 footer {
     border-top: 1px solid #d5d5d5;
